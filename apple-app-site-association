@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W64Y123456.com.example",
+        "paths": [
+          "/email/verification/*"
+        ]
+      }
+    ]
+  }
+}
